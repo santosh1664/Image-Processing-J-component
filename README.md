@@ -3,7 +3,7 @@
 Code for the paper `On Using Transfer Learning For Plant Leaf Disease Detection`.
 ## Data
 
-The dataset can be downloaded from [here]
+The dataset can be downloaded from [here](https://www.kaggle.com/emmarex/plantdisease/discussion)
 ## Environment and tools
 
 1. Jupyter Notebook
@@ -19,6 +19,7 @@ The dataset can be downloaded from [here]
 `pip install numpy pandas scikit-image matplotlib scikit-learn keras`
 
 `jupyter notebook`
+## Execution 
 For part1 code:
 Step 1: Open pycharm, google colab, jupiter notebook. 
 Step 2: Using the code replace the name of the image you want to check for the which has disease in it or not. 
