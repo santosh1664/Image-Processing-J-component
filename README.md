@@ -1,6 +1,6 @@
-# On Using Transfer Learning For Plant Leaf Disease Detection
+## Plant Leaf Disease Detection using CNN 
 
-Code for the paper `On Using Transfer Learning For Plant Leaf Disease Detection`.
+
 ## Data
 
 The dataset can be downloaded from [here](https://www.kaggle.com/emmarex/plantdisease/discussion)
